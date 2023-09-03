@@ -27,10 +27,10 @@ Llama 2 is a state-of-the-art natural language processing model designed to unde
 Before you start, ensure you have the following prerequisites:
 
 - Cuda compatible GPU
-  - Minimum Cuda compability 5.0 (Maxwell), Ampere or newer recommended (fast 16bit Training)
+  - Minimum Cuda compatibility: 5.0 (Maxwell), Ampere or newer recommended (fast 16bit Training)
   - Kepler (3.5, 3.7) only partily compatible, if you compile PyTorch etc. for yourself (sorry K20, K40, K80 Owners :-()
 
-- You GPU needs at least 12GB of VRAM for the smallest 7B Modell to finetune (for inference with 4bit precision, you need less)
+- Your GPU needs at least 12GB of VRAM for the smallest 7B Modell to finetune (for inference with 4bit precision, you need less)
   - Google Colab offers free Tesla T4 (Turing) with 16 GB (15GB usable) of VRAM for that purpose
 
 
