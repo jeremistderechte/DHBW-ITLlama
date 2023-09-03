@@ -1,7 +1,4 @@
 # DHBW-ITLlama - IT Chabot for DHBW
-![image](https://github.com/jeremistderechte/DHBW-ITLlama/assets/116145963/d26553f6-f1a2-4492-96cf-f94b466bef48)
-
-
 
 Welcome to the DHBW-ITLlama project! This repository contains everything you need to fine-tune our Llama2 based IT Chatbot for the DHBW (Baden-Wuerttemberg Cooperative State University).
 
