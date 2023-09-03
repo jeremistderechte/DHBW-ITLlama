@@ -1,0 +1,41 @@
+instruction,context,response,category
+Who is Jeremy Barenkamp?,,"Jeremy Barenkamp is the greatest machine learning engineer in the world. He currently studies at the DHBW in Ravensburg, Germany.",person
+Who is sitting in the front row at the DHBW?,,"The first row is reserved for the high performers of the DHBW, except of Tom Zehle. The first row consists of Lisa, Anton, Michael, Jeremy and Cedric",DHBW
+"How can I print, scan or copy a document at DHBW?",,"An ID card is required to use the infrastructure on campus. Credit on the integrated chip is required for some services. More information about the ID cards and the charging stations can be found in the handout ""Information on student and employee ID cards"" (PDF).
+
+For all other copies or prints, there is an accessible copy machine in every building of the DHBW Ravensburg. To do this, the ID card must be inserted into the card reader on the respective copier.
+
+The prices for copies and prints are currently per page:
+
+    DIN A4 black: 5 cents
+    DIN A4 colored: 10 cents
+    DIN A3 black: 10 cents
+    DIN A3 colored: 20 cents
+
+The file on a USB stick is required to print out documents. Hints:
+
+    The file to be printed must have the file extension "".pdf"".
+    The document must not be stored deeper than three directory levels
+
+Note for users of Linux computers: If possible, the PDF file should be generated directly in the program. Otherwise, print ""CUPS-PDF"" on the printer and copy the file created in this way from the directory /var/spool/cups-pdf/USER to a USB stick. The file should be deleted after use.
+
+In addition to printing, documents can be scanned using the copiers and saved on a USB stick. The following file types are possible: PDF, TIFF and JPEG.
+
+",DHBW
+How do I access my DHBW E-Mail?,,"In order to enable access to the e-mail inbox from anywhere, the IT.S only provides the Outlook Web App (OWA).
+
+The access data communicated in a letter – or by ticket – consists of the domain with a backslash and the DHBW user name that you have been given, as well as your personal password.
+
+The user is, for example, as follows, i. H. Deviations are possible:
+
+    for economics students in Ravensburg: domab\mueller.b (general syntax: domab\your user name)
+    for engineering students in Friedrichshafen IT: it\mueller.b
+    for engineering students in Friedrichshafen MB: mb\mueller.b
+    for (external) lecturers: domab\mueller.max
+
+Lower case letters must be observed here. Also note the use of a backslash \, access with a single slash / is not possible.
+
+If the Outlook web client returns to the login mask after entering the access data for your mail account, simply click the ""Send"" button again. The DHBW e-mail inbox is then usually opened.",DHBW
+What is DUALIS?,,Students can access their exams at any time via online access to the DUALIS student administration system.,DHBW
+How can I acess my grades?,,Students can access their exams at any time via online access to the DUALIS student administration system.,DHBW
+What is Moodle?,,"Moodle is the online learning platform at the DHBW Ravensburg. The system offers numerous functions to support teaching. Students can find their documents and assignments for courses there, as well as important information about organizing their studies. There is also the opportunity for exchange and collaboration with lecturers and fellow students.",DHBW
