@@ -41,4 +41,4 @@ Clone the repository and run the notebooks:
 ```bash
 git clone https://github.com/jeremistderechte/DHBW-ITLlama.git
 cd DHBW-ITLlama
-jupyter lab //alternatively google colab
+python main.py
