@@ -36,9 +36,9 @@ Before you start, ensure you have the following prerequisites:
 
 ### Usage
 
-Clone the repository and run the notebooks:
+Clone the repository and run the main.py:
 
 ```bash
-git clone https://github.com/jeremistderechte/DHBW-ITLlama.git
-cd DHBW-ITLlama
+git clone https://github.com/jeremistderechte/Knowledge_Distillation_Benchmark.git
+cd Knowledge_Distillation_Benchmark
 python main.py
